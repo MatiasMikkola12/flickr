@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snapshot of the contents of the card 1`] = `
+<div
+  className="data-wrapper"
+/>
+`;
